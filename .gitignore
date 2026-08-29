@@ -1,0 +1,5 @@
+guessing-game
+*.o
+*.dSYM/
+.DS_Store
+.vscode/
