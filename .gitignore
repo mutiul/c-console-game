@@ -1,4 +1,5 @@
 guessing-game
+/src/main
 *.o
 *.dSYM/
 .DS_Store
